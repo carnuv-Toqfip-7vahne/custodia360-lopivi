@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+.next/
+out/
+.env*
+*.log
+.DS_Store
+bun.lockb
+.vercel
+yarn.lock
+
+# Build outputs
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
